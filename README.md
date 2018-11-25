@@ -1,11 +1,4 @@
-echo "# weekly" >> README.md
+# 周刊-分享一周看过的东西
 
-git init
 
-git add README.md
-
-git commit -m "first commit"
-
-git remote add origin https://github.com/RogerGold/weekly.git
-
-git push -u origin master
+[20181125_1期](https://github.com/RogerGold/weekly/blob/master/20181125_1.md)
